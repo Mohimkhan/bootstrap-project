@@ -1,0 +1,13 @@
+
+html {
+    overflow-x: hidden;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.97);
+    font-weight: 400;
+}
+
+.link-light:hover {
+    font-weight: 600;
+}
